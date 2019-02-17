@@ -1,1 +1,2 @@
 print("WOW")
+print("BOSS")
